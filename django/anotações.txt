@@ -1,0 +1,4 @@
+para iniciar um projeto em djando é necessário dar o seghuinte comando no console:
+
+django-admin startproject (nome do projeto)
+

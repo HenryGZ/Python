@@ -1,0 +1,5 @@
+print('===========calculadora=============')
+n1 = int(input('informe um número: \n'))
+n2 = int(input('informe um segundo número: \n'))
+print('===================================')
+print(f'a soma dos números é: {n1+n2}')

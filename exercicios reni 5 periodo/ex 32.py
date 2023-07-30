@@ -1,0 +1,1 @@
+print(list(range(0,19,3)), "Acabou!!")
